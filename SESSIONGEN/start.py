@@ -17,7 +17,7 @@ async def start(bot: Client, msg: Message):
 ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴀʟʟ ᴛʏᴘᴇ ᴏғ sᴇssɪᴏɴs..
 ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ!
 
-ᴍᴀᴅᴇ ʙʏ: [ᴊᴀʀᴠɪs](https://t.me/PIKA_CHU_20) !""",
+ᴍᴀᴅᴇ ʙʏ: [ᴊᴀʀᴠɪs](https://t.me/II_SB_SIMPLE_II) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
